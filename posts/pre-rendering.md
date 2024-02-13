@@ -5,9 +5,6 @@ tags: ["Next.js", "React"]
 thumbnailSource: 'https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/thumbnails/pre-rendering.png'
 ---
 
-# **What Are The Two Forms of Pre-Rendering in Next.js?**
-*January 13, 2024*
-
 Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
 
 - **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
