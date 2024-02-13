@@ -8,7 +8,7 @@ thumbnailSource: 'https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts
 # **The King in Yellow**
 *January 20, 2024*
 
-<img align="right" width="30%" height="30%" src="https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/articles/yellow_king.png">
+<img align="right" width="30%" height="30%" src="https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/articles/robert_chambers.png">
 
 *The King in Yellow* is a horror novel written in 1895 by American writer Robert W. Chambers. The story contains ten stories, each with different main characters and plot lines.
 
