@@ -5,7 +5,7 @@ tags: ["Book review", "Literature", "Horror"]
 thumbnailSource: 'https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/thumbnails/yellow_king.png'
 ---
 
-<img align="right" width="30%" height="30%" src="https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/articles/robert_chambers.png">
+<img align="right" width="48%" height="48%" src="https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/articles/robert_chambers.png">
 
 *The King in Yellow* is a horror novel written in 1895 by American writer Robert W. Chambers. The story contains ten stories, each with different main characters and plot lines.
 
@@ -27,10 +27,11 @@ One night, while Boris and the narrator are conversing, Genevieve runs out of he
 
 The third story is about a man in church who believes that the organist is plotting to take his soul. After being cornered by the organist in a place in France called "The Court of the Dragon," he wakes up from a dream and later sees a vision of the castle of Carcosa in the moon.
 
-<img align="left" width="30%" height="30%" src="https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/articles/the_yellow_sign.png">
-
 ### **The Yellow Sign**
+
 This story is about a painter who struggles to get his work done after after having seen an "ugly" man guarding the outside of a church, causing him distress.
+
+<img align="left" width="45%" height="45%" src="https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/articles/the_yellow_sign.png">
 
 The model, who the painter is trying to depict, tells him she had a dream seeing him in a coffin carried by a horse carriage during the night whilst standing on a balcony, the carriage being led by the ugly man. The painter confesses having experienced the same dream, but through his perspective from the coffin.
 
@@ -38,11 +39,11 @@ The painter learns that the ugly man wants a "yellow sign" from him and deduces 
 
 During the night, the ugly man breaks in to steal the yellow sign. When the police come, they find the model and the ugly man dead, with the painter injured. It is revealed that the ugly man has been dead for many years.
 
-<img align="right" width="30%" height="30%" src="https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/articles/bohemians.png">
-
 ### **The Remaining Stories**
 
 The six remaining stories of the book are a departure away from the gothic and horror genre, with the exception of the seventh story, *The Street of the Four Winds*, which is about a man who tracks down a stray cat's owner and finds that the owner has been dead for years. 
+
+<img align="right" width="58%" height="58%" src="https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/articles/bohemians.png">
 
 The fifth story, *The Demoiselle D'ys*, is a fantasy romance story about a man who meets a falconer woman & her companions and travels to a mystical world. 
 
@@ -52,7 +53,7 @@ The eighth story, *The Street of the First Shell*, is a war story that follows a
 
 The final two stories, *The Street of Our Lady of the Fields* and *Rue Barrée*, are Bohemian romance stories about American art exchange students in France who fall in love with the local women.
 
-# **Review**
+### **Review**
 
 After finishing the book, I have both praise and criticism for it. While all of the horror stories' endings are rather cliché, predictable, and not that scary, they were nonetheless pretty disturbing, mysterious, and well written with great detail. *The Mask* and *The Yellow Sign* are definitely my favorite stories of the book.
 
