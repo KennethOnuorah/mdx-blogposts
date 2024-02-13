@@ -5,7 +5,7 @@ tags: ["Next.js", "React"]
 thumbnailSource: 'https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/thumbnails/ssr_ssg.png'
 ---
 
-We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
+It is recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
 
 You can use Static Generation for many types of pages, including:
 
@@ -15,6 +15,29 @@ You can use Static Generation for many types of pages, including:
 - Help and documentation
 
 You should ask yourself: "Can I pre-render this page **ahead** of a user's request?" If the answer is yes, then you should choose Static Generation.
+
+For instance, let's say you are building a food menu website for your local restaurant where users can navigate to a page on any particular food item on the restaurant's menu. In a case like this SSG would be a preferred option since it is possible to know ahead of time all of the possible food items that can be requested. In Next.js, we can use a built-in function called `generateStaticParams` to accomplish this. The function returns an array of objects, the objects containing a param for each page that Next.js can pre-render before a user request at build time.
+
+```TypeScript
+// src/app/menu/[foodID]/page.tsx
+
+type FoodData = {
+  id: string,
+  name: string,
+  price: number,
+}
+
+export async function generateStaticParams() {
+  const res = await fetch("https://....com/whatever")
+  const foodData: FoodData[] = await res.json()
+  
+  return foodData.map(food => ({
+    foodID: food.id
+  }))
+}
+
+export default function FoodIDPage ({ params } : { params: { foodID: string} }) {
+```
 
 On the other hand, Static Generation is **not** a good idea if you cannot pre-render a page ahead of a user's request. Maybe your page shows frequently updated data, and the page content changes on every request.
 

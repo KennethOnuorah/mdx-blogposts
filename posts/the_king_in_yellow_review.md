@@ -11,7 +11,7 @@ thumbnailSource: 'https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts
 
 ### **The Repairer of Reputations**
 
-The first story is about a man named Hildred Castaigne, who is the narrator, who one day falls off his horse and suffers a concussion, though later brushes it off as a minor injury. 
+The first story is about a man named Hildred Castaigne, who is the narrator, who one day falls off his horse and suffers a concussion, though latter brushes it off as a minor injury. 
 
 Castaigne believes himself to be the rightful heir of "Imperial America" and plots to have his cousin assassinated, who Castaigne believes is trying to take the throne away from him. 
 
@@ -19,9 +19,9 @@ To accomplish his goal, he teams up with a man named Mr. Wilde who can allegedly
 
 ### **The Mask**
 
-The next story is a about a sculptor named Boris who can turn any object into a marble-like sculpture by dropping it into a bowl of unknown liquid. One day, Boris and the narrator are decorating the house of their friend Genevieve and Boris fills her pool full of the liquid, wanting to test its effects on something large. Later in the story it is revealed that Genevieve has mental problems and is taking drugs.
+The next story is about a sculptor named Boris who can turn any object into a marble-like sculpture by dropping it into a bowl of unknown liquid. One day, while Boris and the narrator are decorating the house of their friend Genevieve, Boris fills Genevieve's pool with the mysterious liquid, wanting to test its effects on something large. Later in the story it is revealed that Genevieve has mental problems and is taking drugs.
 
-One night, while Boris and the narrator are conversing, Genevieve runs out of her room in what I assume is a manic episode and falls into the pool of Boris' liquid, turning into a lifeless statue. Because he had feelings for her, Boris falls into depression and later takes his own life. The narrator later discovers that Genevieve is alive, revealing that the effects of the liquid are  only temporary and Boris took his own life for nothing.
+One night, while Boris and the narrator are conversing, Genevieve runs out of her room in what I assume is a manic episode and falls into the pool of Boris' liquid, turning into a lifeless statue. Because he had feelings for her, Boris falls into depression and later takes his own life. The narrator later discovers that Genevieve is alive, revealing that the effects of the liquid were  only temporary and Boris took his own life for nothing.
 
 ### **The Court of the Dragon**
 
@@ -59,4 +59,4 @@ After finishing the book, I have both praise and criticism for it. While all of 
 
 I do also have some criticism for the book, mainly the latter half of the book. The remaining five stories were a very abrupt shift away from the gothic tone set by the previous stories. I decided to pick up this book for the horror and its supposed ability to drive insane those who read it. I certainly wasn't expecting to read war stories and Bohemian romance stories. In addition, the last six stories make no mention of the King in Yellow, Carcosa, Hastur, or any other cryptic references. The first four stories make reference to those things, but not the last six. 
 
-Overall, I would give this book a **6.1/10**. It has some interesting stories, but I think the book is overhyped and not really that remarkable.
+Overall, I would give this book a **5.9/10**. It has some interesting stories, but I think the book is overhyped and not really that remarkable.
