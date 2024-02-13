@@ -8,7 +8,7 @@ thumbnailSource: 'https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts
 # **The King in Yellow**
 *January 20, 2024*
 
-<img align="right" width="30%" height="30%" src="https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/articles/yellow_king.png">
+<img align="right" width="30%" height="30%" src="https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/articles/robert_chambers.png">
 
 *The King in Yellow* is a horror novel written in 1895 by American writer Robert W. Chambers. The story contains ten stories, each with different main characters and plot lines.
 
@@ -30,7 +30,8 @@ One night, while Boris and the narrator are conversing, Genevieve runs out of he
 
 The third story is about a man in church who believes that the organist is plotting to take his soul. After being cornered by the organist in a place in France called "The Court of the Dragon," he wakes up from a dream and later sees a vision of the castle of Carcosa in the moon.
 
-<img align="right" width="30%" height="30%" src="https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/articles/the_yellow_sign.png">
+<img align="left" width="30%" height="30%" src="https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/articles/the_yellow_sign.png">
+
 ### **The Yellow Sign**
 This story is about a painter who struggles to get his work done after after having seen an "ugly" man guarding the outside of a church, causing him distress.
 
@@ -41,6 +42,7 @@ The painter learns that the ugly man wants a "yellow sign" from him and deduces 
 During the night, the ugly man breaks in to steal the yellow sign. When the police come, they find the model and the ugly man dead, with the painter injured. It is revealed that the ugly man has been dead for many years.
 
 <img align="right" width="30%" height="30%" src="https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/articles/bohemians.png">
+
 ### **The Remaining Stories**
 
 The six remaining stories of the book are a departure away from the gothic and horror genre, with the exception of the seventh story, *The Street of the Four Winds*, which is about a man who tracks down a stray cat's owner and finds that the owner has been dead for years. 
