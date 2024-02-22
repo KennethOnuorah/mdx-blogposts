@@ -2,7 +2,7 @@
 title: 'Summary & Review: The Castle by Franz Kafka'
 date: '2024-02-20'
 tags: ["Book review", "Literature", "Absurdism", "Comedy"]
-thumbnailSource: 'https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/thumbnails/the_Castle.png'
+thumbnailSource: 'https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/thumbnails/the_castle.png'
 ---
 
 <img align="right" width="48%" height="48%" src="https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/articles/franz_kafka.png">
