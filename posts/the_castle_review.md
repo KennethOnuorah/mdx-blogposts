@@ -1,8 +1,8 @@
 ---
 title: 'Summary & Review: The Castle by Franz Kafka'
-date: '2024-02-20'
+date: '2024-02-21'
 tags: ["Book review", "Literature", "Absurdism", "Comedy"]
-thumbnailSource: 'https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/thumbnails/the_castle.png'
+thumbnailSource: 'https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/thumbnails/castle.png'
 ---
 
 <img align="right" width="48%" height="48%" src="https://raw.githubusercontent.com/KennethOnuorah/mdx-blogposts/main/images/articles/franz_kafka.png">
@@ -89,7 +89,7 @@ After the talk with the landlady, K. reunites with Gerstäcker, a coachman who h
 
 This is where the book concludes; the story ends mid-sentence. Franz Kafka left the manuscript unfinished in 1922 and ultimately gave up on finishing it. As for the book's ending, Kafka once told Max Brod how the story would conclude:
 
-    K. continues to reside in the village until his death; the castle would notify him on his deathbed that his "legal claim to live in the village was not valid, yet, taking certain auxiliary circumstances into account, he would be permitted to live and work there."
+*"K. continues to reside in the village until his death; the castle would notify him on his deathbed that his legal claim to live in the village was not valid, yet, taking certain auxiliary circumstances into account, he would be permitted to live and work there."*
 
 ### **Review**
 
